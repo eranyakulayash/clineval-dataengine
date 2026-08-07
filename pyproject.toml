@@ -6,6 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "clineval-dataengine"
 version = "0.1.0"
 description = "Clinical AI Data Evaluation and Processing Engine for FHIR records."
+readme = "README.md"
 authors = [{ name = "Clinical Eval Team" }]
 requires-python = ">=3.8"
 dependencies = []

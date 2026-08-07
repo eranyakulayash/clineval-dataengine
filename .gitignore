@@ -21,6 +21,11 @@ share/python-wheels/
 .installed.cfg
 *.egg
 
+# Secret tokens and keys
+[pypi].txt
+*.token
+*.secret
+
 # Virtual environments
 .env
 .venv
