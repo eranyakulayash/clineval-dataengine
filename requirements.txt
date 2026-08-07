@@ -1,0 +1,2 @@
+# Core requirements for clineval-dataengine
+# Standard library is primarily used; optional dependencies can be listed here.

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clineval-dataengine"
+version = "0.1.0"
+description = "Clinical AI Data Evaluation and Processing Engine for FHIR records."
+authors = [{ name = "Clinical Eval Team" }]
+requires-python = ">=3.8"
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0"
+]
