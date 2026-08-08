@@ -152,5 +152,5 @@ pytest
 Distributed under the **MIT License**. See `LICENSE` for details.
 
 <div align="center">
-  <sub>Built with precision by <b>Eranya Kulayash</b> and the <b>ClinEval DataEngine Core Team</b>.</sub>
+  <sub>Built with precision by <b>EranyaKula yash</b> and the <b>ClinEval DataEngine Core Team</b>.</sub>
 </div>
